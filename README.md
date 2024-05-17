@@ -1,6 +1,10 @@
 # Kromftronics - Custom KiCad Footprint & 3D Models
 
-Repo for storing custom footprint and 3D model libraries create for KiCad.
+Custom footprints and 3D model libraries created for KiCad, used for Kromftronics projects.
+
+<p align="center">
+  <img src="./images/Potentiometer_Alpha_slide_pot_30mm/footprint-with-3dmodel.png" width=75%>
+</p>
 
 ### Footprints
 The [footprints](./footprints) directory contains the custom KiCad footprint library.
