@@ -497,7 +497,7 @@
 			)
 		)
 	)
-	(symbol "ONSHOT"
+	(symbol "ONESHOT"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -544,7 +544,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "ONSHOT_0_1"
+		(symbol "ONESHOT_0_1"
 			(rectangle
 				(start -12.7 25.4)
 				(end 12.7 0)
@@ -557,7 +557,7 @@
 				)
 			)
 		)
-		(symbol "ONSHOT_1_1"
+		(symbol "ONESHOT_1_1"
 			(pin power_in line
 				(at 0 27.94 270)
 				(length 2.54)
