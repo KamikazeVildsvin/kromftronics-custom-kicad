@@ -1,4 +1,4 @@
-# Kromftronics - Custom KiCad Footprint & 3D Models
+# KiCad Footprint & 3D Models - Used by Kromftronics
 
 Footprints, symbols, and 3D model libraries for KiCad, used for Kromftronics projects.
 Some of the 3D models are created by other people but is shareable under the GNU GPL-3.0 license.
